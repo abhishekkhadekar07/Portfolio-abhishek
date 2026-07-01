@@ -53,7 +53,7 @@ export default function Contact() {
 
       <footer className="footer">
         <span>© {new Date().getFullYear()} {profile.name}</span>
-        <span className="footer-built">Built with React + Vite</span>
+        {/* <span className="footer-built">Built with React + Vite</span> */}
       </footer>
     </section>
   );
