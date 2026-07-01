@@ -137,3 +137,8 @@ personal) can list multiple links:
 **Profile-level GitHub / Docker Hub** — set `profile.github` and
 `profile.dockerhub` to your real URLs; they appear next to LinkedIn in the Hero
 and Contact sections. Leave either as `""` to hide it.
+
+### Docker guide
+docker build -t portfolio-abhishek
+then
+docker run --rm -d -p 9000:80 portfolio-abhishek:latest 
