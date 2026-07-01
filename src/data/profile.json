@@ -1,0 +1,254 @@
+{
+  "profile": {
+    "name": "Abhishek Khadekar",
+    "role": "Front-End Developer",
+    "location": "Pune, Maharashtra, India",
+    "email": "abhishekkhadekar07@gmail.com",
+    "phone": "+91-7028593811",
+    "linkedin": "https://linkedin.com/in/abhishek-khadekar19ab7",
+    "github": "https://github.com/your-username",
+    "dockerhub": "https://hub.docker.com/u/your-username",
+    "tagline": "I build scalable, production-grade web applications for fintech and marketplace products.",
+    "intro": "React · TypeScript · Redux developer with a test-driven mindset and a habit of shipping features end to end.",
+    "about": "I'm a front-end developer with 3.5+ years of experience shipping production web apps in the fintech and marketplace space. Day to day I work in React, TypeScript, and Redux, and I'm comfortable across the whole delivery lifecycle — microfrontend architecture, REST API integration, and test-driven development with Jest, Playwright, and Cypress.\n\nI've delivered end-to-end features, resolved live production incidents, and collaborated directly with clients in Agile/Scrum teams. Currently I'm building for Intuit QuickBooks through Persistent Systems.",
+    "facts": [
+      {
+        "label": "Experience",
+        "value": "3.5+ years"
+      },
+      {
+        "label": "Current",
+        "value": "Intuit QuickBooks"
+      },
+      {
+        "label": "Core stack",
+        "value": "React · TS · Redux"
+      },
+      {
+        "label": "Domains",
+        "value": "Fintech · Marketplace"
+      }
+    ],
+    "skills": [
+      {
+        "group": "Languages & Frameworks",
+        "items": [
+          "JavaScript (ES6+)",
+          "TypeScript",
+          "React.js",
+          "Next.js",
+          "Redux",
+          "HTML5",
+          "CSS3"
+        ]
+      },
+      {
+        "group": "Testing",
+        "items": [
+          "Jest",
+          "React Testing Library",
+          "Playwright",
+          "Cypress"
+        ]
+      },
+      {
+        "group": "Tools & Platforms",
+        "items": [
+          "Git",
+          "GitHub",
+          "REST APIs",
+          "Postman",
+          "VS Code",
+          "AWS",
+          "CI/CD",
+          "Docker"
+        ]
+      },
+      {
+        "group": "UI Libraries",
+        "items": [
+          "Material UI",
+          "Tailwind CSS"
+        ]
+      },
+      {
+        "group": "Ways of working",
+        "items": [
+          "Agile",
+          "Scrum",
+          "Code Review",
+          "Requirement Analysis",
+          "Client Communication"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Persistent Systems Ltd.",
+        "role": "Front-End Developer",
+        "period": "Jun 2022 – Present",
+        "blurb": "Building production front-ends for global fintech and marketplace clients across multiple engagements.",
+        "engagements": [
+          {
+            "client": "Intuit QuickBooks",
+            "period": "Aug 2024 – Present",
+            "note": "Microfrontend features across 4–8 repos; stabilized Playwright E2E suites; led production incident calls to same-session resolution."
+          },
+          {
+            "client": "HDFC NRI Onboarding",
+            "period": "Apr 2023 – Aug 2024",
+            "note": "Field validation across KYC/eSignature flows, REST integrations (PAN/Aadhaar), and geolocation-based customization."
+          },
+          {
+            "client": "HDFC Mutual Fund",
+            "period": "Jan 2023 – Apr 2024",
+            "note": "Systematic transfer module (adopted as core functionality), a risk-rated fund component, and Redux state for scheme details."
+          },
+          {
+            "client": "Ticketing System",
+            "period": "Jun 2022 – Dec 2022",
+            "note": "Cypress E2E + Jest to 75%+ coverage, Material UI component system, zero production rollbacks."
+          }
+        ]
+      },
+      {
+        "company": "Persistent Systems",
+        "role": "Software Engineering Intern",
+        "period": "Jan 2022 – May 2022",
+        "blurb": "Built a functional Amazon clone in React/TypeScript with unit tests in React Testing Library and Jest.",
+        "engagements": []
+      }
+    ],
+    "projects": [
+      {
+        "name": "Intuit QuickBooks — Microfrontend Platform",
+        "domain": "Fintech · Enterprise",
+        "period": "2024 – Present",
+        "tech": [
+          "React",
+          "Redux",
+          "JavaScript",
+          "Playwright"
+        ],
+        "highlights": [
+          "Developed and maintained features across a microfrontend architecture spanning 4–8 independent repositories with consistent UI behavior.",
+          "Refactored Playwright E2E suites to eliminate flaky tests, improving CI/CD reliability across release cycles.",
+          "Used observability tooling to catch user-flow anomalies before escalation, and led client-facing incident calls to same-session resolution."
+        ]
+      },
+      {
+        "name": "HDFC NRI Bank Account Onboarding",
+        "domain": "Fintech · Banking",
+        "period": "2023 – 2024",
+        "tech": [
+          "TypeScript",
+          "React",
+          "HTML5",
+          "CSS3"
+        ],
+        "highlights": [
+          "Architected field validation across RM Details, Personal Details, KYC, and eSignature pages.",
+          "Integrated REST endpoints for PAN/Aadhaar verification, country lists, and relationship-manager data.",
+          "Built a geolocation feature to tailor platform services to the user's region."
+        ]
+      },
+      {
+        "name": "HDFC Mutual Fund Investment Platform",
+        "domain": "Fintech · Investments",
+        "period": "2023 – 2024",
+        "tech": [
+          "React",
+          "Redux",
+          "JavaScript"
+        ],
+        "highlights": [
+          "Delivered a systematic transfer module enabling automated investments — adopted as core platform functionality.",
+          "Built a fund-ratings component with high/moderate/low risk categorization to improve decision UX.",
+          "Managed scheme-details state with Redux for predictability and maintainability."
+        ]
+      },
+      {
+        "name": "Ticketing System Platform",
+        "domain": "Marketplace",
+        "period": "2022",
+        "tech": [
+          "React",
+          "Next.js",
+          "Redux",
+          "TypeScript",
+          "Material UI",
+          "Jest",
+          "Cypress"
+        ],
+        "highlights": [
+          "Resolved critical bugs across multiple release cycles with zero production rollbacks.",
+          "Built comprehensive Cypress E2E coverage across all critical ticketing workflows.",
+          "Added Jest unit tests to 75%+ coverage and a consistent Material UI component system."
+        ]
+      }
+    ],
+    "personalProjects": [
+      {
+        "name": "Amazon Clone — E-Commerce App",
+        "domain": "Personal Project",
+        "period": "2022",
+        "tech": [
+          "React",
+          "TypeScript",
+          "Firebase",
+          "CSS"
+        ],
+        "highlights": [
+          "Full-stack e-commerce clone with product listings, cart, user authentication, and checkout.",
+          "Responsive design across all device sizes."
+        ],
+        "links": [
+          {
+            "type": "demo",
+            "url": "https://amazon-clone-psi-puce.vercel.app/",
+            "label": "Live demo"
+          }
+        ]
+      }
+    ],
+    "education": {
+      "degree": "B.Tech — Electronics & Telecommunication Engineering",
+      "school": "Government College of Engineering, Amravati",
+      "period": "2018 – 2022",
+      "detail": "CGPA: 7.76"
+    },
+    "certifications": [
+      {
+        "name": "Microsoft Certified: Azure Fundamentals",
+        "code": "AZ-900",
+        "issuer": "Microsoft"
+      }
+    ]
+  },
+  "navLinks": [
+    {
+      "id": "about",
+      "label": "About"
+    },
+    {
+      "id": "skills",
+      "label": "Skills"
+    },
+    {
+      "id": "projects",
+      "label": "Projects"
+    },
+    {
+      "id": "personal",
+      "label": "Personal"
+    },
+    {
+      "id": "experience",
+      "label": "Experience"
+    },
+    {
+      "id": "contact",
+      "label": "Contact"
+    }
+  ]
+}
