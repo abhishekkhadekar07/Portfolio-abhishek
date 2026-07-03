@@ -189,7 +189,7 @@
     ],
     "personalProjects": [
       {
-        "name": "Amazon Clone — E-Commerce App",
+        "name": "Novocart — E-Commerce App",
         "domain": "Personal Project",
         "period": "2022",
         "tech": [
@@ -199,13 +199,14 @@
           "CSS"
         ],
         "highlights": [
-          "Full-stack e-commerce clone with product listings, cart, user authentication, and checkout.",
-          "Responsive design across all device sizes."
+          "Build a fully featured E-Commerce App using React,React router v6 and context Api with protected routes and reusable components",
+          "Developed core  E-Commerce features live features,filters,3 step checkout with validations,wishlist and animations with fully responsive mobile layout",
+          "Containerised using a Multi stage Dockerfile"
         ],
         "links": [
           {
             "type": "demo",
-            "url": "https://amazon-clone-psi-puce.vercel.app/",
+            "url": "https://novokart.vercel.app/",
             "label": "Live demo"
           }
         ]
